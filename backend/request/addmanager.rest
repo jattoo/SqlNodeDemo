@@ -1,0 +1,7 @@
+POST http://localhost:4000/api/manager
+Content-Type: application/json
+
+{
+    "name": "Go Manager",
+    "junior": 3
+}
