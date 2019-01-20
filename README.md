@@ -1,6 +1,6 @@
 SQL DEMO WITH NODE JS AS BACKEND.
 
-To Reproduce this demo:
+To Reproduce this demo: Start by cloning/dowloading the backend folder then --> 
 
     1-  Change to a directory of your choice
     2-  Run npm install 
